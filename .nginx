@@ -4,6 +4,6 @@ server {
     
     location / {
         include proxy_params;
-        proxy_pass http://unix:/home/vm1/flask-ansible/flask-ansible.sock;
+        proxy_pass http://unix:/home/vm1/flask-ansible/myproject.sock;
     }
 }
