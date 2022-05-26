@@ -1,5 +1,5 @@
 [webservers]
-192.168.56.109
+192.168.56.110
 
 [webservers:vars]
 # Local variables for Ansible playbooks
