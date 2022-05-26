@@ -2,5 +2,3 @@ Flask
 gunicorn
 sklearn
 pandas
-os
-numpy
